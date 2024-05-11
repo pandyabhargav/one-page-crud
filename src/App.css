@@ -1,0 +1,98 @@
+.bg-orange {
+  background-color: #FF6E49;
+  padding: 30px;
+  color: aliceblue;
+  text-transform: uppercase;
+}
+
+.button {
+  color: aliceblue;
+}
+
+.reset,
+.edit,
+.update {
+  background-color: #1D9EF0;
+  color: aliceblue;
+  font-size: 30px;
+}
+
+.reset,
+.edit,
+.update:hover {
+  color: aliceblue;
+}
+
+.form-control {
+  outline: none;
+  border: none;
+  border-bottom: 2px solid #1D9EF0;
+  font-size: 18px;
+  text-align: left;
+}
+
+.form-control:hover {
+  outline: transparent;
+  border: transparent;
+  border-bottom: 2px solid #1D9EF0;
+}
+
+.serch,
+.trash,
+.Register {
+  background-color: #FF6E49;
+  font-size: 30px;
+}
+
+.student {
+  background-color: #0059ff;
+  font-size: 30px;
+}
+
+tbody,
+td,
+tfoot,
+th,
+tr,
+thead {
+  border: 2px solid black;
+  text-align: center;
+}
+
+th {
+  font-size: 25px;
+}
+td{
+  font-size: 20px;
+}
+
+.img img {
+  border: 1px solid black;
+  height: 150px;
+  width: 150px;
+}
+
+.img i {
+  position: absolute;
+  top: 18%;
+  font-size: 40px;
+  color: #1D9EF0;
+  left: 23%;
+}
+
+.img input {
+  position: absolute;
+  top: 18%;
+  left: 23%;
+  opacity: 0;
+  width: 40px;
+  height: auto;
+}
+.image img{
+  width: 30%;
+  height: 500px;
+}
+td ,tr ,th{
+  border-left: 1px solid black;
+  border-left: 1px solid black;
+}
